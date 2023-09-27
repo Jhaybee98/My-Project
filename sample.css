@@ -1,0 +1,16 @@
+html {
+    font-size: 15px;
+}
+body {
+    background-color: brown;
+    color: wheat;
+}
+a {
+    color: red;
+}
+a:visited {
+    color: green;
+}
+a:hover, a:visited {
+    color: black;
+}
